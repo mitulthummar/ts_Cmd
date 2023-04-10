@@ -1,0 +1,27 @@
+1.Package file ---->   npm init -y
+2.configuration file------->   tsc --init
+3.Typescript install globaly-------->   npm install -global typescript
+4.Typescript with express JS -----> npm install @types/node express @types/express ts-node typescript
+5.import json file ------------->    npm install jsonfile @types/jsonfile
+
+6.npm install @types/dotenv dotenv
+7.npm install @types/mongoose mongoose
+
+8.npm install nodemon
+9. npm install express-validator @types/express-validator
+
+npm install mongoose@6.8.4    error---- version 
+
+
+
+login ---   npm install bcryptjs @types/bcryptjs gravatar @types/gravatar jsonwebtoken @types/jsonwebtoken
+
+
+with typescript---- npm install bcryptjs @types/bcryptjs gravatar @types/gravatar jsonwebtoken @types/jsonwebtoken
+
+
+
+
+
+
+
